@@ -1,25 +1,25 @@
-1 Apsîtis Andris
+1 ApsÃ®tis Andris
 
-2 Bçrziòğ Oïegs
+2 BÃ§rziÃ²Ã° OÃ¯egs
+print(cos(radians(60)+fmod(15,2)))
+3 ÃˆerniÃ°ova Sofija
 
-3 Èerniğova Sofija
+4 GorjuÃ°kins IÃ¯ja
 
-4 Gorjuğkins Iïja
-
-5 Lanka Elîna
+5 Lanka ElÃ®na
 
 6 Lazarevs Artjoms
 
-7 Ïebede Anastasija
+7 Ãebede Anastasija
 
-8 Maïinovska Karîna
+8 MaÃ¯inovska KarÃ®na
 
-9 Mieme Karîna
+9 Mieme KarÃ®na
 
 10 Orlova Sofija
 
-11 Stukone Patrîcija
+11 Stukone PatrÃ®cija
 
-12 Tûcis Òikita
+12 TÃ»cis Ã’ikita
 
-13 Zakrevskis Òikita
+13 Zakrevskis Ã’ikita
